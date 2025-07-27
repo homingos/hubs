@@ -137,7 +137,7 @@
     "semver": "^7.3.2",
     "three": "github:mozillareality/three.js#hubs-patches-133",
     "three-ammo": "github:infinitelee/three-ammo",
-    "three-mesh-bvh": "^0.3.7",
+    "three-mesh-bvh": "^0.9.1",
     "three-pathfinding": "^0.14.1",
     "three-to-ammo": "github:infinitelee/three-to-ammo",
     "troika-three-text": "^0.45.0",
